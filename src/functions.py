@@ -20,7 +20,7 @@ def generate_response(prompt):
     client = OpenAI(api_key=keys.openai_key)
     model = "gpt-4-1106-preview"
     messages = [
-        {"role": "system", "content": "You are a helpful assistant."},
+        {"role": "system", "content": "cryptophase.py."},
         {"role": "user", "content": prompt}
     ]
 
