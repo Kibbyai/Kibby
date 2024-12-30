@@ -12,9 +12,6 @@ software written by Thomas Bernard.
 See readme.md for instructions on building your own Ai agent with the samecode, the
 graphical user interface.
 
-Compilers Supported
--------------------
-
 
 
 Dependencies
