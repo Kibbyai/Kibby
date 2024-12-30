@@ -39,7 +39,7 @@ interactions:
       - personalization_id="v1_9kXZ5SQAhBTaIgPmqBYgDQ=="; Max-Age=63072000; Expires=Sun,
         29 Dec 2024 13:20:51 ET; Path=/; Domain=.twitter.com; Secure; SameSite=None
       - guest_id=v1%3A165192965163646159; Max-Age=63072000; Expires=Sun, 29 Dec 2024
-        13:20:51 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+        13:20:51 ET; Path=/; Domain=.twitter.com; Secure; SameSite=None
       strict-transport-security:
       - max-age=631138519
       x-access-level:
