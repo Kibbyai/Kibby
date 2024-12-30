@@ -1,5 +1,4 @@
-Copyright (c) 2014 ColossusCoin2 Developers <br />
-Copyright (c) 2009-2012 Bitcoin Developers
+Copyright (c) 2024 KibbyAi Developers <br />
 
 Distributed under the MIT/X11 software license, see the accompanying
 file license.txt or http://www.opensource.org/licenses/mit-license.php.
@@ -66,10 +65,10 @@ MSYS shell:
     mkdir miniupnpc
     cp *.h miniupnpc/
 
-ColossusCoin2
+KibbyAi
 -------
 DOS prompt:
 
-    cd \ColossusCoin2\src
+    cd \KibbyAi\src
     mingw32-make -f makefile.mingw
-    strip ColossusCoin2d.exe
+    strip KibbyAi.exe
