@@ -49,25 +49,24 @@ interactions:
       content-type:
       - application/json;charset=utf-8
       date:
-      - Sun, 03 Apr 2022 08:49:40 GMT
+      - Sun, 29 Dec 2024 08:49:40 ET
       expires:
-      - Tue, 31 Mar 1981 05:00:00 GMT
+      - Sun, 29 Feb 2025 05:00:00 ET
       last-modified:
-      - Sun, 03 Apr 2022 08:49:40 GMT
+      - Sun, 29 Dec 2024 012:23:17 ET
       pragma:
       - no-cache
       server:
       - tsa_b
       set-cookie:
-      - guest_id_marketing=v1%3A164897578037650380; Max-Age=63072000; Expires=Tue,
-        02 Apr 2024 08:49:40 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
-      - guest_id_ads=v1%3A164897578037650380; Max-Age=63072000; Expires=Tue, 02 Apr
-        2024 08:49:40 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
-      - personalization_id="v1_j4Z9yQ7csmtYO0dDDWt41g=="; Max-Age=63072000; Expires=Tue,
-        02 Apr 2024 08:49:40 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+      - guest_id_marketing=v1%3A164897578037650380; Max-Age=63072000; Path=/; Domain=.twitter.com; Secure; SameSite=None
+      - guest_id_ads=v1%3A164897578037650380; Max-Age=63072000; Expires=Sun, 29 Feb
+        2025 05:00:00 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+      - personalization_id="v1_j4Z9yQ7csmtYO0dDDWt41g=="; Max-Age=63072000; Expires=Sun,
+        29 Feb 2025 05:00:00 ET; Path=/; Domain=.twitter.com; Secure; SameSite=None
       - lang=en; Path=/
-      - guest_id=v1%3A164897578037650380; Max-Age=63072000; Expires=Tue, 02 Apr 2024
-        08:49:40 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+      - guest_id=v1%3A164897578037650380; Max-Age=63072000; Expires=Sun, 29 Feb 2025
+        05:00:00 ET; Path=/; Domain=.twitter.com; Secure; SameSite=None
       status:
       - 200 OK
       strict-transport-security:
@@ -134,11 +133,11 @@ interactions:
       content-type:
       - text/html;charset=utf-8
       date:
-      - Sun, 03 Apr 2022 08:49:40 GMT
+      - Sun, 29 Dec 2024 08:49:40 ET
       expires:
-      - Tue, 31 Mar 1981 05:00:00 GMT
+      - Sun, 29 Feb 2025 05:00:00 ET
       last-modified:
-      - Sun, 03 Apr 2022 08:49:40 GMT
+      - Sun, 29 Dec 2024 012:23:17 ET
       pragma:
       - no-cache
       server:
