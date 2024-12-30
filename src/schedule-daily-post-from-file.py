@@ -19,7 +19,7 @@ def send_post():
 
     print("Tweet posted successfully")
 
-schedule.every().day.at("09:00").do(send_post)
+schedule.every().day.at("03:00-4:00 P.M.").do(send_post)
 
 while True:
     schedule.run_pen() 
