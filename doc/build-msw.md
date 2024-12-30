@@ -9,12 +9,12 @@ software written by Thomas Bernard.
 
 <h1>Build Windows</h1>
 
-See readme-qt.rst for instructions on building ColossusCoin2 QT, the
+See readme.md for instructions on building your own Ai agent with the samecode, the
 graphical user interface.
 
 Compilers Supported
 -------------------
-Note: releases are cross-compiled using mingw running on Linux.
+
 
 
 Dependencies
