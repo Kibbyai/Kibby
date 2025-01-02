@@ -8,7 +8,7 @@ interactions:
       User-Agent:
       - Python/3.10.0 aiohttp/3.7.4.post0 Tweepy/4.9.0
     method: POST
-    uri: https://api.twitter.com/2/users/1072250532645998596/followed_lists
+    uri: https://developer.twitter.com/en/portal/projects/1872341358792339456/apps/29821138/settings
   response:
     body:
       string: '{"data":{"following":true}}'
@@ -26,18 +26,18 @@ interactions:
       content-type:
       - application/json; charset=utf-8
       date:
-      - Sat, 07 May 2022 13:20:54 UTC
+      - Sun, 29 Dec 2024 13:20:54 ET
       server:
       - tsa_b
       set-cookie:
       - guest_id_marketing=v1%3A165192965438101460; Max-Age=63072000; Expires=Mon,
-        06 May 2024 13:20:54 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+        06 May 2025 13:20:54 ET; Path=/; Domain=.twitter.com; Secure; SameSite=None
       - guest_id_ads=v1%3A165192965438101460; Max-Age=63072000; Expires=Mon, 06 May
-        2024 13:20:54 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+        2025 13:20:54 ET; Path=/; Domain=.twitter.com; Secure; SameSite=None
       - personalization_id="v1_Z+/SOHbQSaRNRTchfkP+PA=="; Max-Age=63072000; Expires=Mon,
-        06 May 2024 13:20:54 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
-      - guest_id=v1%3A165192965438101460; Max-Age=63072000; Expires=Mon, 06 May 2024
-        13:20:54 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+        06 May 2025 13:20:54 ET; Path=/; Domain=.twitter.com; Secure; SameSite=None
+      - guest_id=v1%3A165192965438101460; Max-Age=63072000; Expires=Mon, 06 May 2025
+        13:20:54 ET; Path=/; Domain=.twitter.com; Secure; SameSite=None
       strict-transport-security:
       - max-age=631138519
       x-access-level:
@@ -61,14 +61,14 @@ interactions:
     status:
       code: 200
       message: OK
-    url: https://api.twitter.com/2/users/1072250532645998596/followed_lists
+    url: https://developer.twitter.com/en/portal/projects/1872341358792339456/apps/29821138/settings
 - request:
     body: null
     headers:
       User-Agent:
       - Python/3.10.0 aiohttp/3.7.4.post0 Tweepy/4.9.0
     method: DELETE
-    uri: https://api.twitter.com/2/users/1072250532645998596/followed_lists/84839422
+    url: https://developer.twitter.com/en/portal/projects/1872341358792339456/apps/29821138/settings
   response:
     body:
       string: '{"data":{"following":false}}'
@@ -86,18 +86,18 @@ interactions:
       content-type:
       - application/json; charset=utf-8
       date:
-      - Sat, 07 May 2022 13:20:54 UTC
+      - Sun, 29 Dec 2024 13:20:54 ET
       server:
       - tsa_b
       set-cookie:
       - guest_id_marketing=v1%3A165192965457290629; Max-Age=63072000; Expires=Mon,
-        06 May 2024 13:20:54 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+        06 May 2025 13:20:54 ET; Path=/; Domain=.twitter.com; Secure; SameSite=None
       - guest_id_ads=v1%3A165192965457290629; Max-Age=63072000; Expires=Mon, 06 May
-        2024 13:20:54 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+        2025 13:20:54 ET; Path=/; Domain=.x.com; Secure; SameSite=None
       - personalization_id="v1_Q2d+R9WL3WKZtZcQuXSzHA=="; Max-Age=63072000; Expires=Mon,
-        06 May 2024 13:20:54 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
-      - guest_id=v1%3A165192965457290629; Max-Age=63072000; Expires=Mon, 06 May 2024
-        13:20:54 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+        06 May 2025 13:20:54 ET; Path=/; Domain=.x.com; Secure; SameSite=None
+      - guest_id=v1%3A165192965457290629; Max-Age=63072000; Expires=Mon, 06 May 2025
+        13:20:54 ET; Path=/; Domain=.twitter.com; Secure; SameSite=None
       strict-transport-security:
       - max-age=631138519
       x-access-level:
@@ -121,5 +121,5 @@ interactions:
     status:
       code: 200
       message: OK
-    url: https://api.twitter.com/2/users/1072250532645998596/followed_lists/84839422
+    url: https://developer.twitter.com/en/portal/projects/1872341358792339456/apps/29821138/settings
 version: 1
