@@ -23,18 +23,18 @@ interactions:
       content-type:
       - application/json; charset=utf-8
       date:
-      - Sat, 07 May 2022 13:23:56 UTC
+      - Sun, 29 Dec 2024 13:23:56 ET
       server:
       - tsa_b
       set-cookie:
       - guest_id_marketing=v1%3A165192983668515179; Max-Age=63072000; Expires=Mon,
-        06 May 2024 13:23:56 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+        06 May 2025 13:23:56 ET; Path=/; Domain=.x.com; Secure; SameSite=None
       - guest_id_ads=v1%3A165192983668515179; Max-Age=63072000; Expires=Mon, 06 May
-        2024 13:23:56 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+        2025 13:23:56 ET; Path=/; Domain=.x.com; Secure; SameSite=None
       - personalization_id="v1_+SEYjiP7LJvSa6B/3sKxPA=="; Max-Age=63072000; Expires=Mon,
-        06 May 2024 13:23:56 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
-      - guest_id=v1%3A165192983668515179; Max-Age=63072000; Expires=Mon, 06 May 2024
-        13:23:56 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+        06 May 2025 13:23:56 ET; Path=/; Domain=.x.com; Secure; SameSite=None
+      - guest_id=v1%3A165192983668515179; Max-Age=63072000; Expires=Mon, 06 May 2025
+        13:23:56 ET; Path=/; Domain=.x.com; Secure; SameSite=None
       strict-transport-security:
       - max-age=631138519
       x-access-level:
