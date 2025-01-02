@@ -9,7 +9,7 @@ software written by Thomas Bernard.
 
 <h1>Build Windows</h1>
 
-See readme.md for instructions on building your own Ai agent with the samecode, the
+See readme.md and src for instructions on building your own Ai agent with the samecode, the
 graphical user interface.
 
 
