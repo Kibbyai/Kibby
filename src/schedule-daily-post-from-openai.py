@@ -17,7 +17,7 @@ def send_post():
     client.create_tweet(text=tweet_text)
     print("Tweet posted successfully")
     
-schedule.every().day.at("06:00")("3:24")("3:26")("4:27").do(send_post)
+schedule.every().day.at("Random").do(send_post)
 
 while True:
     schedule.run_pending()
