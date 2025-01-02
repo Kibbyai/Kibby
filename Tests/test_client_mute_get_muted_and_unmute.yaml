@@ -34,14 +34,14 @@ interactions:
       content-type:
       - application/json; charset=utf-8
       date:
-      - Thu, 07 Oct 2021 07:59:53 UTC
+      - Sun, 29 Dec 2024 07:59:53 UTC
       server:
       - tsa_b
       set-cookie:
       - personalization_id="v1_LnGt1yhHG67NY2wX1DxNrQ=="; Max-Age=63072000; Expires=Sat,
-        07 Oct 2023 07:59:53 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
-      - guest_id=v1%3A163359359375660636; Max-Age=63072000; Expires=Sat, 07 Oct 2023
-        07:59:53 GMT; Path=/; Domain=.twitter.com; Secure; SameSite=None
+        07 Oct 2023 07:59:53 GMT; Path=/; Domain=.x.com; Secure; SameSite=None
+      - guest_id=v1%3A163359359375660636; Max-Age=63072000; Expires=Sat, 07 Oct 2025
+        07:59:53 ET; Path=/; Domain=.x.com; Secure; SameSite=None
       strict-transport-security:
       - max-age=631138519
       x-access-level:
@@ -97,7 +97,7 @@ interactions:
       content-type:
       - application/json; charset=utf-8
       date:
-      - Thu, 07 Oct 2021 07:59:53 UTC
+      - Sun, 29 Dec 2024 07:59:53 ET
       server:
       - tsa_b
       strict-transport-security:
@@ -156,7 +156,7 @@ interactions:
       content-type:
       - application/json; charset=utf-8
       date:
-      - Thu, 07 Oct 2021 07:59:54 UTC
+      - Sun, 29 Dec 2024 07:59:54 ET
       server:
       - tsa_b
       strict-transport-security:
