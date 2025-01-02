@@ -86,7 +86,7 @@ interactions:
       content-type:
       - application/json; charset=utf-8
       date:
-      - Sum, 29 Dec 2024 13:20:53 UTC
+      - Sun, 29 Dec 2024 13:20:53 UTC
       server:
       - tsa_b
       set-cookie:
